@@ -1,0 +1,88 @@
+[
+    {
+        "1": "Oldest inhabitat city in the world which is situated in India is ?",
+        "2": "Magnetic hill in India is situated in ?",
+        "3": "Floating Post-office is situated in which lake ?",
+        "4": "First Rocket of India was transported by ?",
+        "5": "How many Mosques are present in india ?",
+        "6": "Where in India the World's Highest Rail Bridge is built ?",
+        "7": "Fastest Indian Man to Have Travelled Around the World in 6.5 years ?",
+        "8": "Most Visited Place in the World ?",
+        "9": "How many Percent of world's spices come from India ? ",
+        "10": "Indian housewives hold how many percent of the World's Gold ?"
+    },
+    {
+        "1": {
+            "a": "Mewar",
+            "b": "Varanasi",
+            "c": "Jamshedpur",
+            "d": "Amritsar"
+        },
+        "2": {
+            "a": "Arunachal Pradesh",
+            "b": "Himachal Pradesh",
+            "c": "Uttrakhand",
+            "d": "Ladakh"
+        },
+        "3": {
+            "a": "Dal Lake",
+            "b": "Chilika Lake",
+            "c": "Pushkar Lake",
+            "d": "Wular Lake"
+        },
+        "4": {
+            "a": "Bullock Cart",
+            "b": "Truck",
+            "c": "Bicyle",
+            "d": "Train"
+        },
+        "5": {
+            "a": "2,50,000",
+            "b": "2,00,000",
+            "c": "3,00,000",
+            "d": "1,50,000"
+        },
+        "6": {
+            "a": "Shillong",
+            "b": "Jammu",
+            "c": "Himachal Pardesh",
+            "d": "Kashmir"
+        },
+        "7": {
+            "a": "Benny Prasad",
+            "b": "Prashant Maurya",
+            "c": "Shivam Kapoor",
+            "d": "Ronak Sharma"
+        },
+        "8": {
+            "a": "Vaishno Devi Temple",
+            "b": "Trupati Balaji Temple",
+            "c": "Golden Temple",
+            "d": "Shirdi Sai Baba Temple"
+        },
+        "9": {
+            "a": "40%",
+            "b": "50%",
+            "c": "60%",
+            "d": "70%"
+        },
+        "10": {
+            "a": "10%",
+            "b": "11%",
+            "c": "12%",
+            "d": "13%"
+        }
+    },
+    {
+        "1": "Varanasi",
+        "2": "Ladakh",
+        "3": "Dal Lake",
+        "4": "Bicyle",
+        "5": "3,00,000",
+        "6": "Jammu",
+        "7": "Benny Prasad",
+        "8": "Golden Temple",
+        "9": "70%",
+        "10": "11%"
+    }
+]

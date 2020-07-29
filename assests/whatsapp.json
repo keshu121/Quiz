@@ -1,0 +1,88 @@
+[
+    {
+        "1": "Money spent on marketing by Whatsapp ?",
+        "2": "Average times a user open Whatsapp in a day is ?",
+        "3": "Whatsapp is acquired by Facebook in how much money ?",
+        "4": "In which year voice messages was introduced?",
+        "5": "How many languages Whatsapp can support ?",
+        "6": "In which year Whatsapp was founded ?",
+        "7": "Name of the founder of Whatsapp is?",
+        "8": "WhatsApp says they are adding _____ users everyday ?",
+        "9": "How many bits of encryption is provided by Whatsapp ?",
+        "10": "How many employes works in Whatsapp ?"
+    },
+    {
+        "1": {
+            "a": "1 million",
+            "b": "10 million",
+            "c": "0 dollar",
+            "d": "1 billion"
+        },
+        "2": {
+            "a": "10 times",
+            "b": "17 times",
+            "c": "20 times",
+            "d": "23 times"
+        },
+        "3": {
+            "a": "10 billion",
+            "b": "14 billion",
+            "c": "19 billion",
+            "d": "21 billion"
+        },
+        "4": {
+            "a": "2012",
+            "b": "2013",
+            "c": "2014",
+            "d": "2016"
+        },
+        "5": {
+            "a": "60",
+            "b": "70",
+            "c": "85",
+            "d": "92"
+        },
+        "6": {
+            "a": "2007",
+            "b": "2009",
+            "c": "2011",
+            "d": "2012"
+        },
+        "7": {
+            "a": "Brian Acton",
+            "b": "David Koff",
+            "c": "Charles Darwin",
+            "d": "Clark Megfield"
+        },
+        "8": {
+            "a": "10 million",
+            "b": "5 million",
+            "c": "1 million",
+            "d": "3 million"
+        },
+        "9": {
+            "a": "64 bits",
+            "b": "128 bits",
+            "c": "256 bits",
+            "d": "512 bits"
+        },
+        "10": {
+            "a": "50",
+            "b": "500",
+            "c": "5000",
+            "d": "50000"
+        }
+    },
+    {
+        "1": "0 dollar",
+        "2": "23 times",
+        "3": "19 billion",
+        "4": "2013",
+        "5": "60",
+        "6": "2009",
+        "7": "Brian Acton",
+        "8": "1 million",
+        "9": "256 bits",
+        "10": "50"
+    }
+]

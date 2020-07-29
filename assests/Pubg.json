@@ -1,0 +1,88 @@
+[
+    {
+        "1": "Which of the following gun is not available in Sanhok ?",
+        "2": "Which new mode is released recently in PUBG mobile ?",
+        "3": "Highest years of ban a player can get in PUBG ?",
+        "4": "How much money was spend on the marketing of PUBG  ?",
+        "5": "How far a bullet of Kar-98 can travel straight without a downfall ?",
+        "6": "Best grip while spraying in Automatic rifles ?",
+        "7": "Best grip for the single shot in Sniper & Automatic Rifles ?",
+        "8": "Max speed a Motorbike can attain in PUBG ?",
+        "9": "How many bullets of AKM rifle are required to blow out a BRDM vehicle in solo mode?",
+        "10": "Which of the following grip can only be equipped in MGL?"
+    },
+    {
+        "1": {
+            "a": "SCAR L",
+            "b": "M416",
+            "c": "AKM",
+            "d": "KAR 98"
+        },
+        "2": {
+            "a": "Payload",
+            "b": "BlueHole",
+            "c": "Arena Training",
+            "d": "Domination"
+        },
+        "3": {
+            "a": "1",
+            "b": "5",
+            "c": "10",
+            "d": "100"
+        },
+        "4": {
+            "a": "1 Million dollars",
+            "b": "1000 dollars",
+            "c": "0 dollars",
+            "d": "10 Million dollars"
+        },
+        "5": {
+            "a": "250 meters",
+            "b": "270 meters",
+            "c": "300 meters",
+            "d": "320 meters"
+        },
+        "6": {
+            "a": "Light Grip",
+            "b": "Thumb grip",
+            "c": "Vertical grip",
+            "d": "Angled Grip"
+        },
+        "7": {
+            "a": "Half Grip",
+            "b": "Vertical Grip",
+            "c": "Thumb Grip",
+            "d": "Light Grip"
+        },
+        "8": {
+            "a": "130km/hr",
+            "b": "135km/hr",
+            "c": "150km/hr",
+            "d": "160km/hr"
+        },
+        "9": {
+            "a": "57",
+            "b": "69",
+            "c": "72",
+            "d": "80"
+        },
+        "10": {
+            "a": "Vertical Grip",
+            "b": "Light Grip",
+            "c": "Thumb Grip",
+            "d": "Angled Grip"
+        }
+    },
+    {
+        "1": "SCAR L",
+        "2": "BlueHole",
+        "3": "100",
+        "4": "0 dollars",
+        "5": "300 meters",
+        "6": "Angled Grip",
+        "7": "Light Grip",
+        "8": "150km/hr",
+        "9": "69",
+        "10": "Vertical Grip"
+    }
+]

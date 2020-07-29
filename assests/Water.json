@@ -1,0 +1,88 @@
+[
+    {
+        "1": "How much percentage of fresh water is present as ground water ?",
+        "2": "How much percentage of water a human brain consist of ?",
+        "3": "How many days a human can survive without water ?",
+        "4": "How many tons of water is required to make 1 ton of steel ?",
+        "5": "Upto what percentage an adult human male body consist of water?",
+        "6": "How many gallons of water is used by an apple tree to make an apple ?",
+        "7": "How many gallons of water is used to make a slice of bread ?",
+        "8": "Of all the water on earth, only ____ is fresh water. ",
+        "9": "Human bones are ____  water. ",
+        "10": "Water covers ____ percent of the planet’s surface"
+    },
+    {
+        "1": {
+            "a": "15%",
+            "b": "20%",
+            "c": "25%",
+            "d": "30%"
+        },
+        "2": {
+            "a": "70%",
+            "b": "75%",
+            "c": "80%",
+            "d": "85%"
+        },
+        "3": {
+            "a": "4",
+            "b": "5",
+            "c": "7",
+            "d": "10"
+        },
+        "4": {
+            "a": "300 tons",
+            "b": "400 tons",
+            "c": "500 tons",
+            "d": "600 tons"
+        },
+        "5": {
+            "a": "40%",
+            "b": "60%",
+            "c": "75%",
+            "d": "80%"
+        },
+        "6": {
+            "a": "18 gallons",
+            "b": "21 gallons",
+            "c": "25 gallons",
+            "d": "30 gallons"
+        },
+        "7": {
+            "a": "7 gallons",
+            "b": "9 gallons",
+            "c": "11 gallons",
+            "d": "14 gallons"
+        },
+        "8": {
+            "a": "0.5%",
+            "b": "1.0%",
+            "c": "2.0%",
+            "d": "2.5%"
+        },
+        "9": {
+            "a": "20%",
+            "b": "30%",
+            "c": "40%",
+            "d": "50%"
+        },
+        "10": {
+            "a": "70.3%",
+            "b": "70.7%",
+            "c": "70.9%",
+            "d": "80.2%"
+        }
+    },
+    {
+        "1": "30%",
+        "2": "75%",
+        "3": "7",
+        "4": "300 tons",
+        "5": "60%",
+        "6": "18 gallons",
+        "7": "11 gallons",
+        "8": "2.5%",
+        "9": "30%",
+        "10": "70.9%"
+    }
+]

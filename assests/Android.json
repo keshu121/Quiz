@@ -1,0 +1,88 @@
+[
+    {
+        "1": "In which year the android was developed?",
+        "2": "How much money was paid by Google to Android Inc for the Android OS ? ",
+        "3": "In which year first android smartphone was launched ? ",
+        "4": "Name of the website dedicated to the Android world."  ,
+        "5": "Android is available in how many languages ? ",
+        "6": "Android’s app store “Google Play” has over ____ app installs ?",
+        "7": "Android was initially developed for ____ ?",
+        "8": "Company which launched first android smartphone ? ",
+        "9": "Android is developed by _____ ? ",
+        "10": "What percentage of phones are android today ? "
+    },
+    {
+        "1": {
+            "a": "2003",
+            "b": "2004",
+            "c": "2005",
+            "d": "2006"
+        },
+        "2": {
+            "a": "30 million",
+            "b": "40 million",
+            "c": "50 million",
+            "d": "60 million"
+        },
+        "3": {
+            "a": "2008",
+            "b": "2009",
+            "c": "2010",
+            "d": "2011"
+        },
+        "4": {
+            "a": "Tankroid",
+            "b": "Levroid",
+            "c": "Standroid",
+            "d": "Phandroid"
+        },
+        "5": {
+            "a": "42",
+            "b": "46",
+            "c": "57",
+            "d": "69"
+        },
+        "6": {
+            "a": "45 billion",
+            "b": "48 billion",
+            "c": "50 billion",
+            "d": "54 billion"
+        },
+        "7": {
+            "a": "Digital Camera",
+            "b": "Microwave",
+            "c": "Smart Watch",
+            "d": "Tablets"
+        },
+        "8": {
+            "a": "Sony",
+            "b": "Samsung",
+            "c": "HTC",
+            "d": "BlackBerry"
+        },
+        "9": {
+            "a": "Jack Code",
+            "b": "Jimmy Falcon",
+            "c": "Andrea Mark",
+            "d": "Andy Rubin"
+        },
+        "10": {
+            "a": "80%",
+            "b": "84%",
+            "c": "86%",
+            "d": "89%"
+        }
+    },
+    {
+        "1": "2004",
+        "2": "50 million",
+        "3": "2008",
+        "4": "Phandroid",
+        "5": "46",
+        "6": "48 billion",
+        "7": "Digital Camera",
+        "8": "HTC",
+        "9": "Andy Rubin",
+        "10": "86%"
+    }
+]
